@@ -31,4 +31,4 @@ Document Describing about ICP-1
 
 ## Video
 Video on demonstration of the ICP-1  
-[Video](https://drive.google.com/drive/folders/10ZTiVkDCwmWPIFZ3e_BK2onckliHGrwE?usp=sharing)
+[Video](https://drive.google.com/file/d/12ZRbwRzVz1ZnRYRHvHuLi3FsrWqC1Al8/view?usp=drive_link)
