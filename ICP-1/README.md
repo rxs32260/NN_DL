@@ -27,7 +27,7 @@ Ans:
 
 ## Document
 Document Describing about ICP-1  
-[Document](https://github.com/rxs32260/NN_DL/tree/main/ICP-1)
+[Document](https://docs.google.com/document/d/1PXswEjI39qUvmDOJT1p9h8gjEpPKmUYM/edit?usp=sharing&ouid=101755515846615402538&rtpof=true&sd=true)
 
 ## Video
 Video on demonstration of the ICP-1  
