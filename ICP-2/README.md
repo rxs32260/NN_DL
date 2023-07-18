@@ -23,7 +23,7 @@
 
 ## Document
 Document Describing about ICP-2  
-[Document](https://docs.google.com/document/d/1mnWbwcj0-Tpr4Pb8cf-TU-ZiM7pEizG4/edit?usp=sharing&ouid=116297738906248482727&rtpof=true&sd=true)
+[Document](https://docs.google.com/document/d/1joZEd-TqDG8DorGS9xUoNzBnRtZ4hCDfssMJurJTcCE/edit?usp=drive_link )
 
 ## Video
 Video on demonstration of the ICP-2  
